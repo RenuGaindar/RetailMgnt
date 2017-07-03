@@ -1,0 +1,8 @@
+spring:
+  application:
+     name: RetailMgt
+  jpa:
+    generate-ddl: true
+
+server:
+  port: 8083

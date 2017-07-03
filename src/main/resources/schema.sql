@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS shopdetails(shop_Number INT auto_increment,shop_name VARCHAR(100),number  INT ,POST_CODE VARCHAR(100),address VARCHAR(100),city VARCHAR(100),latitude DOUBLE, longitude DOUBLE,version INT);
